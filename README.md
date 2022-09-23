@@ -1,7 +1,7 @@
 <div align="center">
 <p>
    <a align="left" href="https://github.com/Kewei-Liang/JDC-MF" target="_blank">
-   <img width="850" src="https://github.com/Kewei-Liang/JDC-MF/Figures/figure1.png"></a>
+   <img width="850" src="https://github.com/Kewei-Liang/JDC-MF/Figures/figure1.jpg"></a>
 </p>
 <br>
 <div>
