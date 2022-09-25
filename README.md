@@ -1,10 +1,9 @@
-<div align="center">
+
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
    <img width="850" src="https://raw.githubusercontent.com/Kewei-Liang/JDC-MF/main/Figures/test.jpg"></a>
 </p>
 <br>
-<div>
 
 <p>
   This is the python implementation of the paper "The Joint Detection and Classification model for spatiotemporal action localization of primates in a group" and our paper will be published soon.
