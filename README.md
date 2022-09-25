@@ -42,7 +42,7 @@ unzip labels
 `detect.py` runs train and saving results to `runs/train`.
 
 ```bash
-python train.py 
+python train.py  --data  data/JDC-MF-example.yaml
 ```
 
 </details>
@@ -55,7 +55,7 @@ python train.py
 `detect.py` runs validation and saving results to `runs/val`.
 
 ```bash
-python val.py 
+python val.py --data  data/JDC-MF-example.yaml
 ```
 
 </details>
