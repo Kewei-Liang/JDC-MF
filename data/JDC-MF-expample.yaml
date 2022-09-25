@@ -1,0 +1,15 @@
+
+train: /data_example/labels/  
+train_img: /data_example/frames/
+val: /data_example/labels/  
+val_img: /data_example/frames/
+
+
+
+# number of classes
+nc: 5
+action_nc: 10
+
+# class names
+names: [ 'yellow','green','red','black','white']
+action_names: [ 'sit','walk','stand','climb','attach','hang_with_hand','stand_with_hand','skip','lie','hang_with_leg']
