@@ -11,5 +11,16 @@
 cd JDC-MF
 pip install -r requirements.txt  # install
 ```
+  
+<details>
+<summary>Inference with detect.py</summary>
+
+`detect.py` runs inference and saving results to `runs/detect`.
+
+```bash
+python detect.py 
+```
+
+</details>
 
 </details>
