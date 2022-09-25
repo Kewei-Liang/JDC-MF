@@ -10,7 +10,7 @@
   This is the python implementation of the paper "The Joint Detection and Classification model for spatiotemporal action localization of primates in a group" and our paper will be published soon.
 </p>
 
-## <div align="center">Introduction</div>
+## <div align="center">Quick Start Examples</div>
 <details open>
 <summary>Install</summary>
 [**Python>=3.7.0**](https://www.python.org/) environment, including
