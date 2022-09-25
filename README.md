@@ -25,6 +25,7 @@ pip install -r requirements.txt  # install
 <details open>
 <summary>Data preparation</summary>
 A example of unzip data
+   
 ```bash
 cd data_example
 unzip frames
